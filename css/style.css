@@ -38,3 +38,21 @@ body {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.ads {
+  padding: 20px;
+  background: linear-gradient(90deg, #3800AF 0%, #BF7204 97.52%, #C27500 100%, #C27500 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 24px;
+}
+
+.ads span {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 110%;
+  max-width: 166px;
+  width: 100%;
+}
